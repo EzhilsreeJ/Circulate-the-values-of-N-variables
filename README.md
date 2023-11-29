@@ -23,7 +23,8 @@ def circulate():
     l=eval(input())
     n=int(input())
     l=l[n:]+l[:n]
-    print("After circulating the values are:",l)```
+    print("After circulating the values are:",l)
+```
 
 ## Output:
 ![Alt text](OUTPUT.png)

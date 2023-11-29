@@ -26,7 +26,7 @@ def circulate():
     print("After circulating the values are:",l)```
 
 ## Output:
-![Alt text](image.png)
+![Alt text](OUTPUT.png)
 
 ## Result:
 Thus circulating the values of n variables program successfully executed.

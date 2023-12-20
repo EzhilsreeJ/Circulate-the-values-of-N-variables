@@ -19,6 +19,9 @@ Print the circulated list to the console.
 End the program.
 ## Program:
 ```py
+#Program to circulate N values.
+#Developed by:Ezhil sree J
+#RegisterNumber:23012968
 def circulate():
     l=eval(input())
     n=int(input())
@@ -27,7 +30,8 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](OUTPUT.png)
+![OUTPUT](https://github.com/EzhilsreeJ/Circulate-the-values-of-N-variables/assets/144870412/1e4a712a-d9c3-4679-ae84-a24dae1175fc)
+
 
 ## Result:
 Thus circulating the values of n variables program successfully executed.
